@@ -1,0 +1,7 @@
+aws_cdk.aws_cloudformation
+aws-cdk.aws_secretsmanager 
+aws-cdk.aws_iam 
+aws_cdk.aws_ec2 
+aws_cdk.aws_fsx 
+aws_cdk.aws_directoryservice
+simplejson

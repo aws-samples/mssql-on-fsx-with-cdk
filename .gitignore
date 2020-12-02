@@ -1,0 +1,15 @@
+*.swp
+package-lock.json
+__pycache__
+___init__
+.pytest_cache
+.env
+*.egg-info
+.venv
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+mssql_on_fsx/__init__.py
+CDK_Stacks/.DS_Store
+.DS_Store
+cdk.context.json
